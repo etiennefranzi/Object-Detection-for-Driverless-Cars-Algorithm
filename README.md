@@ -1,4 +1,4 @@
-# Object-Detection-for-driverless-car-video-footage
+# Object Detection for driverless car video footage
 
 Created Python algorithms to pinpoint objects within video frames captured from a driving car. The final product could process 10 seconds of car footage in approximately 60 seconds on Google Colab.
 
