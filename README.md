@@ -1,4 +1,4 @@
-# Vehicle Detection Pipeline for Autonomous Driving Footage
+# Vehicle Detection Pipeline for Autonomous Driving
 
 Python algorithms to detect and classify objects (cars, trucks, background) in video frames from driving footage, built and trained on Google Colab.
 
