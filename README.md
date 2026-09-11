@@ -11,6 +11,8 @@
 
 	[![Presentation preview](https://drive.google.com/thumbnail?id=1HlO5TBtLLhUnKgaEPrjG1ameoiroPUlvjU_UTfX41Mk&sz=w400)](https://docs.google.com/presentation/d/1HlO5TBtLLhUnKgaEPrjG1ameoiroPUlvjU_UTfX41Mk/edit?usp=sharing)
 
+
+																														
 ## Description
 
 Created Python algorithms to pinpoint and classify objects (cars, trucks, background) within video frames captured from a driving car. The final product could process 10 seconds of car footage in approximately 60 seconds on Google Colab.
