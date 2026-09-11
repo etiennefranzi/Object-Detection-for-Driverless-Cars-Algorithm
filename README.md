@@ -4,7 +4,7 @@ Python algorithms to detect and classify objects (cars, trucks, background) in v
 
 ---
 
-## Project Files
+## Project Files Links
 | | |
 |---|---|
 | **[Final Product](https://drive.google.com/file/d/1EiD5pbMaVzlxln0d-fqmlaiCpwSfuWlh/view?usp=sharing)** | [![Video preview](https://drive.google.com/thumbnail?id=1EiD5pbMaVzlxln0d-fqmlaiCpwSfuWlh&sz=w400)](https://drive.google.com/file/d/1EiD5pbMaVzlxln0d-fqmlaiCpwSfuWlh/view?usp=sharing) |
